@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\bin\Debug\netcoreapp3.1\HomeworkArray.exe
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\bin\Debug\netcoreapp3.1\HomeworkArray.deps.json
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\bin\Debug\netcoreapp3.1\HomeworkArray.runtimeconfig.json
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\bin\Debug\netcoreapp3.1\HomeworkArray.runtimeconfig.dev.json
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\bin\Debug\netcoreapp3.1\HomeworkArray.dll
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\bin\Debug\netcoreapp3.1\HomeworkArray.pdb
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\obj\Debug\netcoreapp3.1\HomeworkArray.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\obj\Debug\netcoreapp3.1\HomeworkArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\obj\Debug\netcoreapp3.1\HomeworkArray.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\obj\Debug\netcoreapp3.1\HomeworkArray.AssemblyInfo.cs
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\obj\Debug\netcoreapp3.1\HomeworkArray.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\obj\Debug\netcoreapp3.1\HomeworkArray.dll
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\obj\Debug\netcoreapp3.1\HomeworkArray.pdb
+C:\Users\HP\Desktop\HomeworkArray\HomeworkArray\obj\Debug\netcoreapp3.1\HomeworkArray.genruntimeconfig.cache
